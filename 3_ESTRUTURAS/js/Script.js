@@ -1,13 +1,13 @@
 // 1 - Variáveis
-let nome = "Matheus";
+let nome = "David";
 
 console.log(nome);
 
-nome = "Matheus Battisti";
+nome = "David Silva";
 
 console.log(nome);
 
-const idade = 31;
+const idade = 42;
 
 console.log(idade);
 
@@ -28,7 +28,7 @@ let a = 10,
 
 console.log(a, b, c);
 
-const nomecompleto = "Matheus Battisti";
+const nomecompleto = "David Silva";
 
 const nomeCompleto = "João da Silva";
 
