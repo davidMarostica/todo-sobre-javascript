@@ -91,7 +91,7 @@ const raizQuadrada = (x) => {
 const raizQuadrada2 = (n) => n * n;
 
 console.log(raizQuadrada(4));
-console.log(raizQuadrada2(4));
+console.log(raizQuadrada2(66));
 
 const helloWorld = () => console.log("Hello!");
 

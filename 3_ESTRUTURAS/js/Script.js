@@ -209,7 +209,7 @@ switch (job) {
 }
 
 // switch "errado"
-const l = 100;
+/*const l = 100;
 
 switch (l) {
   case 200:
@@ -221,3 +221,4 @@ switch (l) {
   default:
     console.log("L não foi encontrado");
 }
+*/
