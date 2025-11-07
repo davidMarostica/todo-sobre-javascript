@@ -30,7 +30,7 @@ console.log(a, b, c);
 
 const nomecompleto = "David Silva";
 
-const nomeCompleto = "João da Silva";
+const nomeCompleto = "\nJoão da Silva";
 
 console.log(nomecompleto, nomeCompleto);
 
@@ -115,13 +115,13 @@ if (1 > 2) {
   console.log("Agora sim!");
 }
 
-const userName = "Matheus";
-const userAge = 31;
+const userName = "David";
+const userAge = 42;
 
 if (userName === "José") {
   console.log("Bem vindo José!");
-} else if (userName === "Matheus" && userAge === 31) {
-  console.log("Olá Matheus, você tem 31 anos!");
+} else if (userName === "David" && userAge === 31) {
+  console.log("Olá David, você tem 42 anos!");
 } else {
   console.log("Nenhuma condição aceita!");
 }
